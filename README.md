@@ -1,5 +1,9 @@
 # 📘 End-User Documentation & Guides Portfolio
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/82d9c2d6-40b2-4985-8b8c-d55b8b8f91ac" width="400" alt="API Request">
+</p>
+
 ### _Translating complex systems into intuitive human experiences._
 
 ## 📌 Philosophy
